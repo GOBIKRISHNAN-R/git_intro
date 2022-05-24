@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # introduction to git
 
 Follow these steps to Handle the Project in Github
