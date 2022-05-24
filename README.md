@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # introduction to git
 
 Follow these steps to Handle the Project in Github
@@ -19,4 +18,3 @@ Follow these steps to Handle the Project in Github
 =======
 # git_into
 introduction and usage
->>>>>>> fb3e6c1cdbaa0d3130757ad7b75c8f012b1a2990
